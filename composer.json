@@ -16,7 +16,7 @@
     "version": "1.0.8",
     "require": {
         "php": ">=5.5",
-        "magento/module-checkout": "100.0.*|100.1.*"
+        "magento/module-checkout": "*"
     },
     "autoload": {
         "files": [
